@@ -1,1 +1,1 @@
-# Ordinances_LDA
+# Ordinance Topic Modeling using Gensim LDA and Mallet LDA
