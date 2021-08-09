@@ -1,4 +1,4 @@
-# Ordinance Topic Modeling using Gensim LDA and Mallet LDA
+# Ordinance Topic Modeling with Latent Dirichlet Allocation
 
 Motivation: These ordinances are in great number and not organized in any way in their respective websites.
 
