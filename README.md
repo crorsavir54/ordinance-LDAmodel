@@ -1,11 +1,11 @@
 # Ordinance Topic Modeling with Latent Dirichlet Allocation
 
-Motivation: These ordinances are in great number and not organized in any way in their respective websites.
+Motivation: Ordinances are in great number and not organized in any way in their respective websites.
 
-Topic modeling is capable with this task by organize them into themes. 
-Applying topic modeling on these ordinances, may provide a new perspective in creation of new policies. 
+Topic modeling is capable with this task by organizing them into themes/topics. 
+By applying topic modeling on these ordinances, may provide a new perspective in creation of new policies. 
  
-
+To accomplish this task I used _gensim_ python module for LDA model estimation to make inference of topic distribution on these ew, unseen documents. 
 
 Notebook:
 
