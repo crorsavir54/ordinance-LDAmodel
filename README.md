@@ -1,6 +1,6 @@
 # Ordinance Topic Modeling with Latent Dirichlet Allocation
 
-Motivation: Ordinances are in great number and not organized in any way in their respective websites.
+Motivation: Ordinances are in great number and not organized in any way
 
 Topic modeling is capable with this task by organizing them into themes/topics. 
 By applying topic modeling on these ordinances, may provide a new perspective in creation of new policies. 
